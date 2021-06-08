@@ -8,13 +8,17 @@
 
 # Rakuten-tv Web-Page-Rep
  
-Webpage replica of rakuten.tv, made in:
+Webpage replica of rakuten.tv, made with:
 
--Javascript ES+
--Semantic HTML5
--CSS3
--SASS 
--BEM
+- Javascript ES+
+- Semantic HTML5
+- CSS3
+- SASS 
+- BEM
+- Flexbox
+- MediaQuery
+- Bootsrap
+- Responsive Design
     <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="5%" height="5%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="5%" height="5%">
